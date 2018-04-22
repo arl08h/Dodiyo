@@ -1,0 +1,13 @@
+{
+  "name": "burger",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "node-sass": "^4.8.3"
+  },
+  "dependencies": {
+    "posthtml-img-autosize": "^0.1.2",
+    "typed.js": "^2.0.6"
+  }
+}

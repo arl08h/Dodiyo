@@ -1,0 +1,27 @@
+.center{text-align:center}
+#space-invaders {
+  margin: 0 auto;
+  display: block;
+  background: white
+}
+.label {
+  background-color: #B33A3A;
+  color: white;
+  font-weight: bold;
+}
+.btn {
+  -webkit-border-radius: 6;
+  -moz-border-radius: 6;
+  border-radius: 6px;
+  color: #ffffff;
+  font-size: 14px;
+  background: #333333;
+  padding: 3px 6px 4px 6px;
+  margin-top: 3px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #242423;
+  text-decoration: none;
+}
